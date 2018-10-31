@@ -69,7 +69,7 @@ class SwiftGlobe {
     #else
         globeShape.firstMaterial!.diffuse.contents = "world2700x1350.jpg" //earth-diffuse.jpg"
     #endif
-        
+
         // TODO: show cities in the dark
         //      - unfortunately using 'emission' isn't sufficient
         //          - it bleeds through in daylight areas, too, leaving little white dots

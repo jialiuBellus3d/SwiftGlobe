@@ -1,0 +1,539 @@
+Wed Oct 24 15:55:13 2018 >>> API version number: 1.9.105.2
+
+Wed Oct 24 15:55:13 2018 >>> Processing dataset: ../../../../Bellus3D/DeveloperBugDataset/b3dDebugData/jiaiphone/2018.10.24.15.33.58
+
+Wed Oct 24 15:55:13 2018 INFO exe: C:\GitHub\b3d_apps\build\bin\Release\BuildMesh.exe
+
+Wed Oct 24 15:55:13 2018 INFO arg: 
+
+Wed Oct 24 15:55:14 2018 INFO buildMesh processing starts...
+
+Wed Oct 24 15:55:14 2018 INFO buildMesh: Depth camera type is IPHX
+
+Wed Oct 24 15:55:14 2018 INFO buildMesh: input frame stores L=0 R=0 M=59 C=0 D=60
+
+Wed Oct 24 15:55:14 2018 INFO buildMesh scanMode is 0 turning mode is 0
+
+Wed Oct 24 15:55:14 2018 INFO buildMesh: compute texture from frame store id=2 count=59
+
+Wed Oct 24 15:55:15 2018 INFO Depth camera type is 3
+
+Wed Oct 24 15:55:15 2018 INFO Source image scale is 1.00 Output depth map size is 904 904
+
+Wed Oct 24 15:55:15 2018 INFO compuDepth: depth images are provided from input
+
+Wed Oct 24 15:55:15 2018 INFO compuDepth input frameCount=60
+
+Wed Oct 24 15:55:15 2018 INFO compuDepth: starting head pose X:4.54 Y:1.23 Z:-0.04 degrees
+
+Wed Oct 24 15:55:15 2018 INFO compuDepth: faceDistance=345.9
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 0 rotation X:-0.0 Y:-0.0 Z:-0.0
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 1 rotation X:0.1 Y:0.1 Z:0.1
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 2 rotation X:0.1 Y:0.0 Z:0.0
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 3 rotation X:0.1 Y:0.2 Z:0.2
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 4 rotation X:0.2 Y:0.2 Z:0.2
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 5 rotation X:0.2 Y:0.0 Z:0.0
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 6 rotation X:0.1 Y:-0.0 Z:-0.0
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 7 rotation X:0.2 Y:-0.0 Z:-0.0
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 8 rotation X:0.1 Y:0.1 Z:0.1
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 9 rotation X:0.2 Y:0.8 Z:0.8
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 10 rotation X:0.4 Y:3.3 Z:3.3
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 11 rotation X:0.8 Y:7.3 Z:7.3
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 12 rotation X:1.2 Y:13.5 Z:13.5
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 13 rotation X:1.9 Y:19.8 Z:19.8
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 14 rotation X:2.5 Y:24.6 Z:24.6
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 15 rotation X:3.0 Y:30.0 Z:30.0
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 16 rotation X:3.9 Y:35.8 Z:35.8
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 17 rotation X:4.2 Y:40.4 Z:40.4
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 18 rotation X:5.1 Y:45.9 Z:45.9
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 19 rotation X:5.6 Y:50.6 Z:50.6
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 20 rotation X:5.7 Y:56.1 Z:56.1
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 21 rotation X:6.3 Y:61.4 Z:61.4
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 22 rotation X:6.6 Y:64.7 Z:64.7
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 23 rotation X:7.3 Y:68.4 Z:68.4
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 24 rotation X:7.2 Y:68.9 Z:68.9
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 25 rotation X:6.8 Y:64.4 Z:64.4
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 26 rotation X:5.8 Y:56.6 Z:56.6
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 27 rotation X:5.8 Y:50.2 Z:50.2
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 28 rotation X:5.4 Y:44.5 Z:44.5
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 29 rotation X:4.7 Y:38.0 Z:38.0
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 30 rotation X:5.0 Y:31.1 Z:31.1
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 31 rotation X:4.4 Y:24.5 Z:24.5
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 32 rotation X:4.3 Y:19.9 Z:19.9
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 33 rotation X:4.5 Y:12.9 Z:12.9
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 34 rotation X:5.1 Y:7.0 Z:7.0
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 35 rotation X:5.4 Y:0.2 Z:0.2
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 36 rotation X:5.9 Y:-5.5 Z:-5.5
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 37 rotation X:6.6 Y:-11.8 Z:-11.8
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 38 rotation X:7.5 Y:-20.4 Z:-20.4
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 39 rotation X:8.8 Y:-29.0 Z:-29.0
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 40 rotation X:10.1 Y:-37.6 Z:-37.6
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 41 rotation X:11.3 Y:-46.4 Z:-46.4
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 42 rotation X:11.6 Y:-54.3 Z:-54.3
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 43 rotation X:12.2 Y:-63.0 Z:-63.0
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 44 rotation X:12.9 Y:-70.4 Z:-70.4
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 45 rotation X:13.6 Y:-78.0 Z:-78.0
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 46 rotation X:13.8 Y:-81.1 Z:-81.1
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 47 rotation X:13.7 Y:-80.6 Z:-80.6
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 48 rotation X:13.5 Y:-78.6 Z:-78.6
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 49 rotation X:12.6 Y:-71.7 Z:-71.7
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 50 rotation X:11.9 Y:-65.9 Z:-65.9
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 51 rotation X:10.8 Y:-60.1 Z:-60.1
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 52 rotation X:9.8 Y:-53.9 Z:-53.9
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 53 rotation X:8.8 Y:-46.9 Z:-46.9
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 54 rotation X:7.8 Y:-40.3 Z:-40.3
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 55 rotation X:6.7 Y:-33.3 Z:-33.3
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 56 rotation X:6.0 Y:-27.8 Z:-27.8
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 57 rotation X:5.6 Y:-22.3 Z:-22.3
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 58 rotation X:5.5 Y:-17.3 Z:-17.3
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: frame 59 rotation X:5.2 Y:-12.8 Z:-12.8
+
+Wed Oct 24 15:55:15 2018 INFO compuDepth: input head rotation range X:(-0.0 to 13.8) Y:(-81.1 to 68.9) Z:(-81.1 68.9)
+
+Wed Oct 24 15:55:15 2018 VERBOSE Add key angle=0.0 frame index=0 id=0 rot=-0.0
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: Skip frame 5. diff=0.0028
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: Skip frame 6. diff=0.0054
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: Skip frame 7. diff=0.0038
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: Skip frame 8. diff=0.0037
+
+Wed Oct 24 15:55:15 2018 VERBOSE Add key angle=20.0 frame index=14 id=9 rot=19.8
+
+Wed Oct 24 15:55:15 2018 VERBOSE Add key angle=40.0 frame index=17 id=13 rot=40.4
+
+Wed Oct 24 15:55:15 2018 VERBOSE Add key angle=60.0 frame index=21 id=17 rot=61.4
+
+Wed Oct 24 15:55:15 2018 VERBOSE Add key angle=-20.0 frame index=38 id=34 rot=-20.4
+
+Wed Oct 24 15:55:15 2018 VERBOSE Add key angle=-40.0 frame index=41 id=36 rot=-37.6
+
+Wed Oct 24 15:55:15 2018 VERBOSE Add key angle=-60.0 frame index=43 id=39 rot=-63.0
+
+Wed Oct 24 15:55:15 2018 VERBOSE Add key angle=-80.0 frame index=46 id=42 rot=-81.1
+
+Wed Oct 24 15:55:15 2018 INFO compuDepth: number of frames to process: 56
+
+Wed Oct 24 15:55:15 2018 INFO compuDepth: Number of threads=4
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: detected key frame id: -1 42 39 36 34 0 9 13 17 -1 -1 
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: key frame angles: 0 -81.139 -63.0209 -37.5638 -20.3691 -0 19.7972 40.4353 61.4431 0 0 
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: key frame sorted: 0 9 34 13 36 17 39 42 
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: thread 0 processing frame=0 est yAngle=-0.00 keyIndex=5 keyAngle=0.0 newKeyIndex=5
+
+Wed Oct 24 15:55:15 2018 >>> HeadBuilder::buildDepthMap Face distance= 345.90 mm
+
+Wed Oct 24 15:55:15 2018 INFO HeadBuilder: starting head rotation X:4.76 Y:1.20 Z:0.00 degrees
+
+Wed Oct 24 15:55:15 2018 VERBOSE compuDepth: thread 0 processing frame=9 est yAngle=19.80 keyIndex=5 keyAngle=0.0 newKeyIndex=6
+
+Wed Oct 24 15:55:15 2018 INFO HeadTracker: turning mode 1 detected (1: head turning. 2: camera turning)
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 0 processing frame=34 est yAngle=-20.37 keyIndex=5 keyAngle=0.0 newKeyIndex=4
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 0 processing frame=13 est yAngle=40.44 keyIndex=6 keyAngle=0.3 newKeyIndex=7
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 3 processing frame=1 est yAngle=0.11 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 2 processing frame=2 est yAngle=0.00 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 1 processing frame=3 est yAngle=0.20 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 3 processing frame=36 est yAngle=-37.56 keyIndex=4 keyAngle=-0.3 newKeyIndex=3
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 1 processing frame=4 est yAngle=0.17 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 2 processing frame=5 est yAngle=0.84 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 0 processing frame=6 est yAngle=3.25 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 0 processing frame=7 est yAngle=7.33 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 1 processing frame=17 est yAngle=61.44 keyIndex=7 keyAngle=0.7 newKeyIndex=8
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 3 processing frame=8 est yAngle=13.47 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 2 processing frame=10 est yAngle=24.62 keyIndex=6 keyAngle=0.3 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 1 processing frame=11 est yAngle=30.02 keyIndex=6 keyAngle=0.3 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 2 processing frame=39 est yAngle=-63.02 keyIndex=3 keyAngle=-0.7 newKeyIndex=2
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 3 processing frame=14 est yAngle=45.93 keyIndex=7 keyAngle=0.7 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 1 processing frame=15 est yAngle=50.62 keyIndex=7 keyAngle=0.7 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 0 processing frame=42 est yAngle=-81.14 keyIndex=2 keyAngle=-1.0 newKeyIndex=1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 3 processing frame=16 est yAngle=56.11 keyIndex=7 keyAngle=0.7 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 2 processing frame=18 est yAngle=64.70 keyIndex=8 keyAngle=1.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 1 processing frame=19 est yAngle=68.40 keyIndex=8 keyAngle=1.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 3 processing frame=20 est yAngle=68.93 keyIndex=8 keyAngle=1.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 0 processing frame=21 est yAngle=64.43 keyIndex=8 keyAngle=1.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:16 2018 VERBOSE compuDepth: thread 2 processing frame=22 est yAngle=56.60 keyIndex=7 keyAngle=0.7 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 1 processing frame=23 est yAngle=50.24 keyIndex=7 keyAngle=0.7 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 3 processing frame=24 est yAngle=44.49 keyIndex=7 keyAngle=0.7 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 0 processing frame=25 est yAngle=37.96 keyIndex=6 keyAngle=0.3 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 2 processing frame=26 est yAngle=31.06 keyIndex=6 keyAngle=0.3 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 1 processing frame=27 est yAngle=24.46 keyIndex=6 keyAngle=0.3 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 2 processing frame=28 est yAngle=19.88 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 3 processing frame=29 est yAngle=12.85 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 0 processing frame=30 est yAngle=7.00 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 3 processing frame=31 est yAngle=0.20 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 1 processing frame=33 est yAngle=-11.84 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 0 processing frame=35 est yAngle=-28.95 keyIndex=4 keyAngle=-0.3 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 2 processing frame=32 est yAngle=-5.51 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 1 processing frame=37 est yAngle=-46.39 keyIndex=3 keyAngle=-0.7 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 3 processing frame=38 est yAngle=-54.33 keyIndex=3 keyAngle=-0.7 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 2 processing frame=40 est yAngle=-70.38 keyIndex=2 keyAngle=-1.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 0 processing frame=41 est yAngle=-78.01 keyIndex=2 keyAngle=-1.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 1 processing frame=43 est yAngle=-80.64 keyIndex=1 keyAngle=-1.4 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 3 processing frame=44 est yAngle=-78.62 keyIndex=2 keyAngle=-1.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 0 processing frame=45 est yAngle=-71.67 keyIndex=2 keyAngle=-1.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 2 processing frame=46 est yAngle=-65.94 keyIndex=2 keyAngle=-1.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 0 processing frame=47 est yAngle=-60.10 keyIndex=2 keyAngle=-1.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 3 processing frame=48 est yAngle=-53.93 keyIndex=3 keyAngle=-0.7 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 1 processing frame=49 est yAngle=-46.93 keyIndex=3 keyAngle=-0.7 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 2 processing frame=50 est yAngle=-40.30 keyIndex=3 keyAngle=-0.7 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 3 processing frame=51 est yAngle=-33.31 keyIndex=4 keyAngle=-0.3 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 0 processing frame=52 est yAngle=-27.81 keyIndex=4 keyAngle=-0.3 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 2 processing frame=53 est yAngle=-22.34 keyIndex=4 keyAngle=-0.3 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 1 processing frame=54 est yAngle=-17.28 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:17 2018 VERBOSE compuDepth: thread 2 processing frame=55 est yAngle=-12.79 keyIndex=5 keyAngle=0.0 newKeyIndex=-1
+
+Wed Oct 24 15:55:18 2018 INFO compuDepth: start mergeFrames...
+
+Wed Oct 24 15:55:18 2018 VERBOSE FaceTrackerASM::findLandmarks searchRect=251 0 401 624
+
+Wed Oct 24 15:55:18 2018 VERBOSE HeadBuilder::findCylFaceLandmarks: use new landmarks
+
+Wed Oct 24 15:55:18 2018 VERBOSE compuDepth: use recomputed face landmarks
+
+Wed Oct 24 15:55:18 2018 INFO compuDepth: start filtering...
+
+Wed Oct 24 15:55:18 2018 INFO HeadBuilder::filterDepthMap scanMode is 0. Crop rect is (79 67 838 521)
+
+Wed Oct 24 15:55:19 2018 >>> compuDepth takes total: 3.5710 sec
+
+Wed Oct 24 15:55:19 2018 >>> -- Frames processed: 56. avg time: 40.46 msec/fr. total: 2.2660 sec (with OMP if enabled)
+
+Wed Oct 24 15:55:19 2018 >>> ---- Single frame time (no OMP): 123.00 msec
+
+Wed Oct 24 15:55:19 2018 >>> ------ Read frame: 0.00 msec/fr. 0.00%
+
+Wed Oct 24 15:55:19 2018 >>> ------ Compute depth: 0.00 msec/fr. 0.00%
+
+Wed Oct 24 15:55:19 2018 >>> ------ Tracking: 43.64 msec/fr. 35.48%
+
+Wed Oct 24 15:55:19 2018 >>> ------ Projection: 50.11 msec/fr. 40.74%
+
+Wed Oct 24 15:55:19 2018 >>> ------ Merging: 11.89 msec/fr. 9.67%
+
+Wed Oct 24 15:55:19 2018 >>> ------ Wait time: 0.00 msec/fr. 0.00%
+
+Wed Oct 24 15:55:19 2018 >>> -- Merge frames: 0.1430 sec
+
+Wed Oct 24 15:55:19 2018 >>> -- Filtering: 0.7820 sec
+
+Wed Oct 24 15:55:19 2018 INFO buildMesh: texture map size is 4096 4096
+
+Wed Oct 24 15:55:19 2018 INFO compuTexture start... 
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  number of input color frames=59
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 0: rot=-0.00 -0.00 0.00
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 1: rot=0.12 0.02 0.12
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 2: rot=0.16 0.04 0.08
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 3: rot=0.12 0.17 0.08
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 4: rot=0.13 0.12 0.10
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 5: rot=0.14 0.25 0.10
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 6: rot=0.16 0.39 0.09
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 7: rot=0.17 0.52 0.09
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 8: rot=0.18 0.67 0.09
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 9: rot=0.20 0.82 0.08
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 10: rot=0.38 3.08 0.15
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 11: rot=0.80 7.22 -0.71
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 12: rot=1.28 13.32 -1.80
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 13: rot=1.89 19.65 -2.61
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 14: rot=2.47 24.18 -3.27
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 15: rot=2.93 29.73 -4.08
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 16: rot=3.64 35.30 -4.43
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 17: rot=4.15 39.99 -4.83
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 18: rot=5.04 45.60 -5.32
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 19: rot=5.53 50.19 -5.66
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 20: rot=5.55 55.42 -5.98
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 21: rot=6.18 61.16 -5.92
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 22: rot=6.43 64.40 -6.03
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 23: rot=7.07 68.08 -6.09
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 24: rot=7.25 68.76 -6.24
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 25: rot=6.65 64.11 -5.73
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 26: rot=5.57 55.97 -4.65
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 27: rot=5.59 49.68 -3.75
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 28: rot=5.32 43.86 -2.79
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 29: rot=4.93 37.56 -2.10
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 30: rot=4.83 30.61 -1.64
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 31: rot=4.31 24.14 -0.61
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 32: rot=4.39 19.59 0.15
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 33: rot=4.48 12.88 1.22
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 34: rot=5.02 6.96 1.34
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 35: rot=5.43 0.17 2.39
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 36: rot=5.90 -5.49 3.11
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 37: rot=6.54 -11.85 3.41
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 38: rot=7.45 -20.26 4.12
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 39: rot=8.62 -28.75 5.19
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 40: rot=10.02 -37.34 5.36
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 41: rot=11.10 -46.04 5.66
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 42: rot=11.30 -53.85 5.40
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 43: rot=12.07 -62.65 5.45
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 44: rot=12.91 -70.21 5.37
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 45: rot=13.53 -77.50 5.34
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 46: rot=13.63 -80.59 5.01
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 47: rot=13.61 -80.17 5.40
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 48: rot=13.39 -77.93 5.67
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 49: rot=12.48 -71.22 5.92
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 50: rot=11.84 -65.63 5.82
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 51: rot=10.56 -59.70 5.08
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 52: rot=9.62 -53.67 4.84
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 53: rot=8.59 -46.45 4.17
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 54: rot=7.57 -39.99 3.56
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 55: rot=6.32 -32.59 2.30
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 56: rot=5.93 -27.54 1.64
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 57: rot=5.56 -22.34 0.82
+
+Wed Oct 24 15:55:19 2018 VERBOSE computeTexture:  Frame 58: rot=5.57 -17.23 0.06
+
+Wed Oct 24 15:55:19 2018 INFO computeTexture: Scan mode=0 Rotation range X:-0.0 to 13.6, Y:-80.6 to 68.8: 1124024326
+
+Wed Oct 24 15:55:19 2018 INFO computeTexture: file count: 59, selected files index:(angle):
+24:(7.25452, 68.7639, -6.24055)
+47:(13.6078, -80.1704, 5.40082)
+19:(5.53173, 50.1905, -5.65535)
+52:(9.62302, -53.6687, 4.83777)
+32:(4.38602, 19.5945, 0.147986)
+56:(5.93037, -27.54, 1.641)
+-1:(0, 0, 0)
+-1:(0, 0, 0)
+0:(-0, -0, 0)
+
+Wed Oct 24 15:55:19 2018 VERBOSE compuTexture: selected fileIndex=24 fileName=M_025_005376_00057.jpg
+
+Wed Oct 24 15:55:19 2018 VERBOSE compuTexture: selected fileIndex=47 fileName=M_048_009708_00103.jpg
+
+Wed Oct 24 15:55:19 2018 VERBOSE compuTexture: selected fileIndex=19 fileName=M_020_004415_00047.jpg
+
+Wed Oct 24 15:55:19 2018 VERBOSE compuTexture: selected fileIndex=52 fileName=M_053_010647_00113.jpg
+
+Wed Oct 24 15:55:20 2018 VERBOSE compuTexture: selected fileIndex=32 fileName=M_033_006912_00073.jpg
+
+Wed Oct 24 15:55:20 2018 VERBOSE compuTexture: selected fileIndex=56 fileName=M_057_011418_00121.jpg
+
+Wed Oct 24 15:55:20 2018 VERBOSE compuTexture: selected fileIndex=0 fileName=M_001_000864_00009.jpg
+
+Wed Oct 24 15:55:20 2018 >>> compuTexture takes total 1.1410 sec (with OMP if enabled)
+
+Wed Oct 24 15:55:20 2018 >>> -- Select color images: 398.00 msec
+
+Wed Oct 24 15:55:20 2018 >>> -- Project color images: 581.00 msec
+
+Wed Oct 24 15:55:20 2018 >>> -- Blend color images: 81.00 msec
+
+Wed Oct 24 15:55:20 2018 INFO White balance enabled target color=240.0 245.0 255.0
+
+Wed Oct 24 15:55:20 2018 VERBOSE FaceTrackerASM::findLandmarks searchRect=251 0 401 624
+
+Wed Oct 24 15:55:20 2018 VERBOSE buildMesh: use recomputed face landmarks
+
+Wed Oct 24 15:55:20 2018 >>> Enhance depth from texture map
+
+Wed Oct 24 15:55:20 2018 VERBOSE HeadBuilder::enhanceTeethDepth
+
+Wed Oct 24 15:55:20 2018 VERBOSE HeadBuilder::addDetailsFromColorImage: teeth detected
+
+Wed Oct 24 15:55:20 2018 VERBOSE HeadBuilder::enhanceEyesDepthFromLandmarks
+
+Wed Oct 24 15:55:20 2018 VERBOSE HeadBuilder::addDepthDetailsFromColorImage
+
+Wed Oct 24 15:55:21 2018 >>> Head pose tracking takes 0.0000 sec
+
+Wed Oct 24 15:55:21 2018 >>> Mesh creation takes 4.2360 sec
+
+Wed Oct 24 15:55:21 2018 >>> Texture creation takes 1.3520 sec
+
+Wed Oct 24 15:55:21 2018 >>> Mesh enhancement takes 0.2420 sec
+
+Wed Oct 24 15:55:21 2018 >>> Mesh simplification takes 0.0240 sec
+
+Wed Oct 24 15:55:21 2018 >>> Writing mesh and texture files takes 0.0000 sec
+
+Wed Oct 24 15:55:21 2018 >>> BuildMesh total time: 7.1110 sec
+
+Wed Oct 24 15:55:23 2018 INFO BuildMesh saved to ../../../../Bellus3D/DeveloperBugDataset/b3dDebugData/jiaiphone/2018.10.24.15.33.58/headData.b3e
+
+Wed Oct 24 15:55:24 2018 INFO BuildMesh exporting...
+
+Wed Oct 24 15:55:24 2018 VERBOSE HeadMesh::getMesh: scanMode is 0, meshMode to 4
+
+Wed Oct 24 15:55:26 2018 INFO BuildMesh mesh saved to merge3d.obj
+
+Wed Oct 24 15:55:26 2018 INFO BuildMesh simplification time 0.09 sec. export time 2.12 sec
+
+Wed Oct 24 15:55:28 2018 INFO Export material maps time 1.61 sec
+
+Wed Oct 24 15:55:28 2018 INFO BuildMesh landmarks saved to faceLandmarks.yml
+
